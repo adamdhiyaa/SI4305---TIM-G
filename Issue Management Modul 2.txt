@@ -3,3 +3,8 @@ Adam membuat Dashboard dan Logout
 Fasma Membuat Login
 
 Fitri Membuat Landing Page
+
+Denisa Membuat Register
+
+Salsa Membuat detail pesanan
+
