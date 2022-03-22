@@ -1,11 +1,11 @@
 Adam membuat Dashboard dan Logout (Selesai)
 
-Fasma Membuat Login
+Fasma Membuat Login (Selesai)
 
 Fitri Membuat Landing Page
 
-Denisa Membuat Register
+Denisa Membuat Register (Selesai)
 
-Salsa Membuat detail pesanan
+Salsa Membuat detail pesanan (Selesai)
 
 Fira Membuat Profile (selesai)
