@@ -2,7 +2,7 @@ Adam membuat Dashboard dan Logout (Selesai)
 
 Fasma Membuat Login
 
-Fitri Membuat Landing Page
+Fitri Membuat Landing Page (Selesai)
 
 Denisa Membuat Register (Selesai)
 
